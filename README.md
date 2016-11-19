@@ -1,2 +1,3 @@
 # Team-1
-Team 1 Repository 
+
+This repository is to add ppt, code, project of cii ag hackathon event of Team 1
